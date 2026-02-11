@@ -1,0 +1,21 @@
+{
+  "name": "comp2156_group16_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elsalyk/COMP2156_Group16_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Elsalyk/COMP2156_Group16_Assignment/issues"
+  },
+  "homepage": "https://github.com/Elsalyk/COMP2156_Group16_Assignment#readme"
+}
