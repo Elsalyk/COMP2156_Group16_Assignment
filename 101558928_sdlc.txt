@@ -1,0 +1,3 @@
+DevOps is essential in the Software Development Life Cycle (SDLC)
+because it bridges development and operations. It ensures faster
+software delivery, better quality, and continuous monitoring of applications.
