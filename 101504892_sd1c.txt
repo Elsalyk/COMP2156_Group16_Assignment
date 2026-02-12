@@ -1,1 +1,2 @@
 DevOps plays critical role in the software development lifecycle by improving collaboration, speeding up delivery, and increasing software reliability.
+Automated pipelines and monitoring reduce the risk of production failures that ensure smoother deployments
