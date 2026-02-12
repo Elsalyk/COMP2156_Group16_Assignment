@@ -1,1 +1,2 @@
 COMP 2156 DevOps course teaches automation, version control, and collaboration between development and operations teams.
+DevOps also implementing monitoring solutions to catch issues in production quickly.
