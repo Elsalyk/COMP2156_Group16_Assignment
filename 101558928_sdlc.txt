@@ -7,3 +7,9 @@ Benefits of applying DevOps in SDLC include:
 - Improved software quality
 - Better collaboration between development and operations teams
 - Continuous monitoring and quick problem resolution
+
+Common tools used in DevOps within SDLC include:
+- Git and GitHub for version control
+- Jenkins for Continuous Integration
+- Docker for containerization
+- Kubernetes for orchestration
