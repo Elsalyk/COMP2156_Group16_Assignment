@@ -1,3 +1,6 @@
 George Brown College is a leading college in Toronto, Canada.
 It offers programs in technology, business, and health sciences.
 The campus provides modern facilities and a vibrant student life.
+
+Fun fact: George Brown College has over 35,000 students and offers co-op programs
+that help students gain real-world experience while studying.
