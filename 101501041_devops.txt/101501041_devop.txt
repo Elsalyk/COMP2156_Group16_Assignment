@@ -5,6 +5,11 @@ COMP 2156 DevOps Course
 	
 	One of the main topics in COMP 2156 is version control using Git and GitHub. Students learn how to create repositories, manage branches, track code changes, and collaborate with team members using pull requests.
  Version control is important because it helps teams manage projects efficiently and prevents data loss.
-The course also introduces Continuous Integration (CI) and Continuous Deployment (CD).
+ The course also introduces Continuous Integration (CI) and Continuous Deployment (CD).
  Students learn how to automate testing and deployment using tools such as GitHub Actions and other CI platforms. Automation reduces human error and improves software reliability.
+
+	Another important part of the course is teamwork and collaboration. Students work in groups to complete assignments and projects.
+ They learn how to manage merge conflicts, maintain documentation, and follow professional development workflows.
+ COMP 2156 helps students understand the role of DevOps in modern IT environments.
+ The course teaches practical skills that prepare students for careers in system administration, cloud computing, and software development. By learning DevOps concepts, students gain experience in automation, collaboration, and efficient software delivery.
 
