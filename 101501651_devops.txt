@@ -1,1 +1,3 @@
-#### Information about COMP 2156 DevOps course
+# Information about COMP 2156 DevOps course
+
+Think of a DevOps course as your VIP backstage pass to the tech world, where you’ll learn to smash the wall between developers and operations to ship code like a total rockstar. It’s all about mastering the art of automation and "infinite loops" to turn chaotic software launches into a smooth, high-speed groove.
