@@ -1,1 +1,3 @@
 COMP2156 - DevOps for System Administration
+
+Professor email address: pritesh.patel2@georgebrown.ca
