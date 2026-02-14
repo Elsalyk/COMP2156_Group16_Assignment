@@ -8,3 +8,7 @@ COMP 2156 DevOps Course
  The course also introduces Continuous Integration (CI) and Continuous Deployment (CD). Students learn how to automate testing and deployment using tools such as GitHub Actions and other CI platforms.
  Automation reduces human error and improves software reliability.
 
+	Another important part of the course is teamwork and collaboration. Students work in groups to complete assignments and projects.
+ They learn how to manage merge conflicts, maintain documentation, and follow professional development workflows.
+ COMP 2156 helps students understand the role of DevOps in modern IT environments.
+ The course teaches practical skills that prepare students for careers in system administration, cloud computing, and software development. By learning DevOps concepts, students gain experience in automation, collaboration, and efficient software delivery.
