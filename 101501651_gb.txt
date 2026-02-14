@@ -1,3 +1,7 @@
 # Information about George Brown College
 
-George Brown College is Toronto’s ultimate downtown urban playground, where they’ve ditched the dusty textbooks for high-energy, hands-on learning in everything from culinary arts to game design. Now rockin' the "Polytechnic" title, it’s the place to be if you want to turn the city into your classroom and "own" your future with serious industry connections.
+George Brown College is Toronto’s ultimate downtown urban playground, 
+where they’ve ditched the dusty textbooks for high-energy, hands-on learning in 
+everything from culinary arts to game design. Now rockin' the "Polytechnic" title, 
+it’s the place to be if you want to turn the city into your classroom and 
+"own" your future with serious industry connections.
