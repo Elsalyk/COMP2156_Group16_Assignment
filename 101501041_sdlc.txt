@@ -1,0 +1,6 @@
+Importance of Learning DevOps Engineering in the Software Development Life Cycle
+
+	The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and maintain software systems.
+ Traditional SDLC models often separate development and operations teams, which can slow down software delivery and create communication challenges.
+ DevOps engineering helps solve these problems by improving collaboration and automation throughout the development process.
+
