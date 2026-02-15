@@ -6,3 +6,6 @@ Software Development Life Cycle(SDLC) are phases in developer operations.
 -Feedback
 -Deployment
 -Operations
+
+
+Some of the tools that can be used to maintain code are: Git,SVN, Mercurial, CVS, and JIRA
