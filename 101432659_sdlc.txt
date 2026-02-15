@@ -1,7 +1,8 @@
 Software Development Life Cycle(SDLC) are phases in developer operations.
-Development\Integration
-Testing
-Monitoring
-Feedback
-Deployment
-Operations
+-Development
+-Integration
+-Testing
+-Monitoring
+-Feedback
+-Deployment
+-Operations
