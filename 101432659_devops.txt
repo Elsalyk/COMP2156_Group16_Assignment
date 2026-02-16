@@ -1,2 +1,2 @@
-Comp 2156 is a course designed to teach us cohesion and autonomy to produce fast and proven outputs.
+Comp 2156 is a course designed to teach us cohesion and autonomy in set systems to produce fast and proven outputs.
 Achiving this requires collaboration and strong communication amongst team-members alike.
