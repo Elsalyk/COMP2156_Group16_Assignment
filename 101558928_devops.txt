@@ -1,0 +1,8 @@
+COMP2156 DevOps course teaches version control, CI/CD, collaboration using GitHub,
+and containerization with Docker. Students learn how software development teams
+work efficiently and automate software delivery.
+
+Learning DevOps in this course helps students develop practical skills
+in collaboration, problem-solving, and automating software processes.
+Teamwork is emphasized because real-world DevOps relies on smooth communication
+between developers and operations teams.

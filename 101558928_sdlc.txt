@@ -1,0 +1,15 @@
+DevOps is essential in the Software Development Life Cycle (SDLC)
+because it bridges development and operations. It ensures faster
+software delivery, better quality, and continuous monitoring of applications.
+
+Benefits of applying DevOps in SDLC include:
+- Faster software delivery
+- Improved software quality
+- Better collaboration between development and operations teams
+- Continuous monitoring and quick problem resolution
+
+Common tools used in DevOps within SDLC include:
+- Git and GitHub for version control
+- Jenkins for Continuous Integration
+- Docker for containerization
+- Kubernetes for orchestration
